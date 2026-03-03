@@ -1,0 +1,17 @@
+# R session artifacts
+.Rhistory
+.RData
+.Rproj.user/
+*.Rproj
+
+# Large cached data files — users generate their own locally
+*.rds
+*.RDS
+
+# Common big data formats you don't want uploaded
+*.csv
+*.parquet
+*.feather
+
+# Mac junk
+.DS_Store
